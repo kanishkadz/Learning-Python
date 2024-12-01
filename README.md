@@ -1,2 +1,3 @@
-# Python
- Programs for Python
+# Python Learning Repository
+
+Welcome to the **Python Learning Repository** by **Kanishka Anand**! This repository is a dedicated resource for learning and mastering Python, one of the most versatile and beginner-friendly programming languages. Through this repository, you'll explore Python fundamentals, advanced concepts, and practical applications, including data structures, object-oriented programming, file handling, and libraries like NumPy and Pandas. Whether you're just starting with Python or aiming to deepen your understanding, this repository is your guide to becoming proficient in Python programming.
